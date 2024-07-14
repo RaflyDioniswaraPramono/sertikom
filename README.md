@@ -21,16 +21,16 @@ Projek yang Saya bangun kali ini merupakan projek untuk Sertifikasi Kompetensi J
 
 ## Desain Tampilan
 #### 1. Arsip Surat
-![Letter]("images/arsip-surat.png");
+![Letter](images/arsip-surat.png);
 #### 2. Unggah Surat
-![Letter Upload Image]("images/unggah-surat.png");
+![Letter Upload Image](images/unggah-surat.png);
 #### 3. Lihat Surat
-![Letter Preview Image]("images/lihat-surat.png");
+![Letter Preview Image](images/lihat-surat.png);
 #### 4. Kategori Surat
-![Letter Category Image]("images/kategori.png");
+![Letter Category Image](images/kategori.png);
 #### 5. Tambah Kategori Surat
-![Create Letter Category Image]("images/tambah-kategori.png");
+![Create Letter Category Image](images/tambah-kategori.png);
 #### 6. Tentang / Profil
-![About Image]("images/tentang.png");
+![About Image](images/tentang.png);
 
 #### ~By Rafly Dioniswara Pramono
