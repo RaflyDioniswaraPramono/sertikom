@@ -1,0 +1,18 @@
+[
+  {
+    "category_name": "Undangan",
+    "description": "Untuk memberikan formalisasi mengenai permintaan kedatangan seseorang."
+  },
+  {
+    "category_name": "Pengumuman",
+    "description": "Untuk memberikan informasi resmi mengenai sebuah peristiwa, jadwal atau hal penting lain."
+  },
+  {
+    "category_name": "Nota Dinas",
+    "description": "Untuk menyatakan keperluan desa yang bersangkutan dengan dians setempat."
+  },
+  {
+    "category_name": "Pemberitahuan",
+    "description": "Pemberian informasi mengenai sebuah berita di desa."
+  }
+]
